@@ -1,0 +1,1832 @@
+{
+	"date": "2017-09-15",
+	"table": "UnknownTable",
+	"rows":
+	[
+		{
+			"count(*)": 147,
+			"title": "af",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 73,
+			"title": "af",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 16,
+			"title": "af",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 165,
+			"title": "ar-AE",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 212,
+			"title": "ar-AE",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 909,
+			"title": "ar-AE",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 60,
+			"title": "ar-AE",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 52,
+			"title": "ar-AE",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 42,
+			"title": "ar-AE",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 577,
+			"title": "ar-AE",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 362,
+			"title": "ar-AE",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 5,
+			"title": "ar-TN",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 1,
+			"title": "ar-TN",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 16,
+			"title": "ar-TN",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 2,
+			"title": "hy",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 1,
+			"title": "hy",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1,
+			"title": "hy",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 50,
+			"title": "hy",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 605,
+			"title": "az-Latn-AZ",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 502,
+			"title": "az-Latn-AZ",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 952,
+			"title": "az-Latn-AZ",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 349,
+			"title": "az-Latn-AZ",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "az-Latn-AZ",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 42,
+			"title": "az-Latn-AZ",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 750,
+			"title": "az-Latn-AZ",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 711,
+			"title": "az-Latn-AZ",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 127,
+			"title": "eu-ES",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 733,
+			"title": "eu-ES",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 22,
+			"title": "be",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 43,
+			"title": "bg",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 877,
+			"title": "bg",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 246,
+			"title": "bg",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 350,
+			"title": "ca",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 2,
+			"title": "ca",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 507,
+			"title": "ca",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 11,
+			"title": "ca",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "ca",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 86,
+			"title": "ca",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 556,
+			"title": "ca",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 53,
+			"title": "ca",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1129,
+			"title": "zh-CN",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 500,
+			"title": "zh-CN",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1181,
+			"title": "zh-CN",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1566,
+			"title": "zh-CN",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "zh-CN",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "zh-CN",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 136,
+			"title": "zh-CN",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "zh-CN",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10692,
+			"title": "zh-CN",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3073,
+			"title": "zh-CN",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 364,
+			"title": "zh-TW",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 376,
+			"title": "zh-TW",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 227,
+			"title": "zh-TW",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 334,
+			"title": "zh-TW",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 12,
+			"title": "zh-TW",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 45,
+			"title": "zh-TW",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 825,
+			"title": "zh-TW",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10,
+			"title": "zh-TW",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 89,
+			"title": "zh-TW",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 265,
+			"title": "hr",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 164,
+			"title": "hr",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 357,
+			"title": "hr",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 39,
+			"title": "hr",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1156,
+			"title": "cs",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 314,
+			"title": "cs",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1175,
+			"title": "cs",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1623,
+			"title": "cs",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "cs",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "cs",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "cs",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "cs",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10962,
+			"title": "cs",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3012,
+			"title": "cs",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 136,
+			"title": "da",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 75,
+			"title": "da",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 10,
+			"title": "da",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 287,
+			"title": "da",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 72,
+			"title": "da",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 18,
+			"title": "da",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 810,
+			"title": "da",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 34,
+			"title": "da",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1156,
+			"title": "nl",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "nl",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1174,
+			"title": "nl",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1630,
+			"title": "nl",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 599,
+			"title": "nl",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "nl",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "nl",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1037,
+			"title": "nl",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10996,
+			"title": "nl",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3087,
+			"title": "nl",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1158,
+			"title": "Neutral",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "Neutral",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1182,
+			"title": "Neutral",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1643,
+			"title": "Neutral",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "Neutral",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "Neutral",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 136,
+			"title": "Neutral",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "Neutral",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 11131,
+			"title": "Neutral",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3119,
+			"title": "Neutral",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 214,
+			"title": "et",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 137,
+			"title": "et",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 178,
+			"title": "et",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 167,
+			"title": "et",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "et",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 42,
+			"title": "et",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 27,
+			"title": "et",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 71,
+			"title": "fa",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 174,
+			"title": "fa",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 317,
+			"title": "fa",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 35,
+			"title": "fa",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 67,
+			"title": "fa",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 14,
+			"title": "fa",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 339,
+			"title": "fa",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 196,
+			"title": "fa",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1086,
+			"title": "fi",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 521,
+			"title": "fi",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1400,
+			"title": "fi",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 577,
+			"title": "fi",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "fi",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "fi",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1014,
+			"title": "fi",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 9269,
+			"title": "fi",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 2741,
+			"title": "fi",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1115,
+			"title": "fr",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "fr",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1171,
+			"title": "fr",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1501,
+			"title": "fr",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 597,
+			"title": "fr",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "fr",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "fr",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1018,
+			"title": "fr",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10674,
+			"title": "fr",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3049,
+			"title": "fr",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 32,
+			"title": "ka",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 419,
+			"title": "ka",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 123,
+			"title": "ka",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 1,
+			"title": "ka",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 239,
+			"title": "ka",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 115,
+			"title": "ka",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1145,
+			"title": "de",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "de",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1174,
+			"title": "de",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1499,
+			"title": "de",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 597,
+			"title": "de",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "de",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "de",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1018,
+			"title": "de",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 11015,
+			"title": "de",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3061,
+			"title": "de",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 160,
+			"title": "el",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 352,
+			"title": "el",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 169,
+			"title": "el",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 143,
+			"title": "el",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 253,
+			"title": "el",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 304,
+			"title": "el",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 8,
+			"title": "he",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 308,
+			"title": "he",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 76,
+			"title": "he",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 249,
+			"title": "he",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 1,
+			"title": "he",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 42,
+			"title": "he",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 609,
+			"title": "he",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 532,
+			"title": "he",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1,
+			"title": "hi",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 507,
+			"title": "hi",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 79,
+			"title": "hi",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 495,
+			"title": "hi",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "hi",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 120,
+			"title": "hi",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 884,
+			"title": "hi",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 48,
+			"title": "hu",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 65,
+			"title": "hu",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 306,
+			"title": "hu",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 585,
+			"title": "hu",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 907,
+			"title": "hu",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 44,
+			"title": "hu",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 887,
+			"title": "id",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 518,
+			"title": "id",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1369,
+			"title": "id",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 475,
+			"title": "id",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "id",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 120,
+			"title": "id",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1000,
+			"title": "id",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6571,
+			"title": "id",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 1895,
+			"title": "id",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1158,
+			"title": "it",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "it",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1182,
+			"title": "it",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1643,
+			"title": "it",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "it",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "it",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 136,
+			"title": "it",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "it",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 11115,
+			"title": "it",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3119,
+			"title": "it",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 645,
+			"title": "ja",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 502,
+			"title": "ja",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 955,
+			"title": "ja",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 362,
+			"title": "ja",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "ja",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 43,
+			"title": "ja",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 826,
+			"title": "ja",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6848,
+			"title": "ja",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 758,
+			"title": "ja",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 3,
+			"title": "kk",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 1,
+			"title": "sw",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 61,
+			"title": "sw",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 630,
+			"title": "ko",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 503,
+			"title": "ko",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 953,
+			"title": "ko",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 360,
+			"title": "ko",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "ko",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 42,
+			"title": "ko",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 751,
+			"title": "ko",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 752,
+			"title": "ko",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 651,
+			"title": "lv",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 511,
+			"title": "lv",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 983,
+			"title": "lv",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 445,
+			"title": "lv",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "lv",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 60,
+			"title": "lv",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 800,
+			"title": "lv",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6565,
+			"title": "lv",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 838,
+			"title": "lv",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 273,
+			"title": "lt",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 83,
+			"title": "lt",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1501,
+			"title": "lt",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 597,
+			"title": "lt",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 3,
+			"title": "lt",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 51,
+			"title": "lt",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1018,
+			"title": "lt",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 71,
+			"title": "lt",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 411,
+			"title": "mn",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 158,
+			"title": "mn",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 507,
+			"title": "nb-NO",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 44,
+			"title": "nb-NO",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 62,
+			"title": "nb-NO",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 380,
+			"title": "nb-NO",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 498,
+			"title": "nb-NO",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 37,
+			"title": "nb-NO",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 10,
+			"title": "nb-NO",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 910,
+			"title": "nb-NO",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 468,
+			"title": "nb-NO",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 24,
+			"title": "nb-NO",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1158,
+			"title": "pl",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "pl",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1182,
+			"title": "pl",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1643,
+			"title": "pl",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "pl",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "pl",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 136,
+			"title": "pl",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "pl",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10915,
+			"title": "pl",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3119,
+			"title": "pl",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 531,
+			"title": "pt",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 420,
+			"title": "pt",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 941,
+			"title": "pt",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 338,
+			"title": "pt",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "pt",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 21,
+			"title": "pt",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 706,
+			"title": "pt",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6233,
+			"title": "pt",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 533,
+			"title": "pt",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1156,
+			"title": "pt-BR",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "pt-BR",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1174,
+			"title": "pt-BR",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1630,
+			"title": "pt-BR",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 599,
+			"title": "pt-BR",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "pt-BR",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "pt-BR",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "pt-BR",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10945,
+			"title": "pt-BR",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3087,
+			"title": "pt-BR",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 28,
+			"title": "ro",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 48,
+			"title": "ro",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 85,
+			"title": "ro",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 462,
+			"title": "ro",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 1156,
+			"title": "ru",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "ru",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1176,
+			"title": "ru",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1630,
+			"title": "ru",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 599,
+			"title": "ru",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "ru",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "ru",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "ru",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 11160,
+			"title": "ru",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3087,
+			"title": "ru",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 44,
+			"title": "sr-Cyrl-CS",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 1,
+			"title": "sr-Latn-CS",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 318,
+			"title": "sr-Latn-CS",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 2,
+			"title": "sr-Latn-CS",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 3,
+			"title": "sr-Latn-CS",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 699,
+			"title": "sr-Latn-CS",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 1157,
+			"title": "sk",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "sk",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1180,
+			"title": "sk",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1642,
+			"title": "sk",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "sk",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "sk",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 136,
+			"title": "sk",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "sk",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 11006,
+			"title": "sk",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3117,
+			"title": "sk",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 896,
+			"title": "sl",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 520,
+			"title": "sl",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1365,
+			"title": "sl",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 491,
+			"title": "sl",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 218,
+			"title": "sl",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 120,
+			"title": "sl",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1001,
+			"title": "sl",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6579,
+			"title": "sl",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 1909,
+			"title": "sl",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1115,
+			"title": "es",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "es",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1171,
+			"title": "es",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1501,
+			"title": "es",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 597,
+			"title": "es",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "es",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "es",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1018,
+			"title": "es",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10844,
+			"title": "es",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3054,
+			"title": "es",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 335,
+			"title": "sv",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 511,
+			"title": "sv",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 250,
+			"title": "sv",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 4,
+			"title": "sv",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 590,
+			"title": "sv",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "sv",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 96,
+			"title": "sv",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1017,
+			"title": "sv",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 2904,
+			"title": "sv",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 109,
+			"title": "sv",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 17,
+			"title": "th",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 84,
+			"title": "th",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 884,
+			"title": "tr",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "tr",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1512,
+			"title": "tr",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "tr",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "tr",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 117,
+			"title": "tr",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "tr",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 6627,
+			"title": "tr",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3085,
+			"title": "tr",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 1156,
+			"title": "uk",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 522,
+			"title": "uk",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 1174,
+			"title": "uk",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 1630,
+			"title": "uk",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 599,
+			"title": "uk",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "uk",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "uk",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1037,
+			"title": "uk",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 10908,
+			"title": "uk",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 3087,
+			"title": "uk",
+			"projectName": "WebStudio"
+		},
+		{
+			"count(*)": 483,
+			"title": "vi",
+			"projectName": "Addons"
+		},
+		{
+			"count(*)": 509,
+			"title": "vi",
+			"projectName": "Community"
+		},
+		{
+			"count(*)": 269,
+			"title": "vi",
+			"projectName": "ControlPanel"
+		},
+		{
+			"count(*)": 709,
+			"title": "vi",
+			"projectName": "CRM"
+		},
+		{
+			"count(*)": 601,
+			"title": "vi",
+			"projectName": "Files"
+		},
+		{
+			"count(*)": 224,
+			"title": "vi",
+			"projectName": "Mobile"
+		},
+		{
+			"count(*)": 123,
+			"title": "vi",
+			"projectName": "People"
+		},
+		{
+			"count(*)": 1041,
+			"title": "vi",
+			"projectName": "Projects"
+		},
+		{
+			"count(*)": 21,
+			"title": "vi",
+			"projectName": "TeamLab Editors"
+		},
+		{
+			"count(*)": 569,
+			"title": "vi",
+			"projectName": "WebStudio"
+		}
+	]
+}

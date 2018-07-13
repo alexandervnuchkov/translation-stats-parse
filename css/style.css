@@ -1,0 +1,27 @@
+﻿body, p {font-family: 'Open Sans'; font-size: 14px; text-align: left;}
+body {padding: 140px 20px 20px; margin: 0;}
+p {margin: 0; padding: 3px 0;}
+table td {padding: 5px 10px; font-family: 'Open Sans'; font-size: 14px; text-align: left;}
+table th {padding: 5px 10px; font-family: 'Open Sans'; font-size: 18px; font-weight: 600; text-align: left;}
+table th:first-child, table td:first-child {text-align: right;}
+pre {white-space: pre-wrap; font-size: 14px; margin: 5px 10px; padding: 20px; border: 1px solid #ddd;}
+.formDiv {position: absolute; top: 20px; left: 20px;}
+select {padding: 11px 10px; font-family: 'Open Sans'; font-size: 14px; text-align: left; vertical-align: middle;}
+input {font-family: 'Open Sans'; background: #444; border: 0 none; color: #fff; cursor: pointer; display: inline-block; font-size: 14px; vertical-align: middle; padding: 15px 30px; text-align: center; text-decoration: none !important; border-radius: 3px; text-transform: uppercase; font-weight: 600; line-height: 1em;}
+h2 {font-weight: 400; font-size: 24px; font-family: 'Open Sans'; margin: 0; padding: 15px 0 5px; line-height: 1em; color: #444;}
+h1 {font-weight: 400; font-size: 28px; font-family: 'Open Sans'; margin: 0; padding: 0; line-height: 1em; position: absolute; top: 90px; left: 20px; color: #f94a0c;}
+a {color: #5891d0;}
+li a {font-family: 'Open Sans'; font-size: 14px; text-align: left; text-decoration: none;}
+li a:hover {text-decoration: underline;}
+li {list-style-type: none;}
+ul {margin: 0;}
+.menu_left {margin: 0; padding: 0;}
+.back_to_start {position: absolute; right: 20px; top: 32px;}
+#home .back_to_start {position: relative; left: 40px; right: auto; top: 0;}
+.back_to_start a {display: block; text-align: right; line-height: 1.7em;}
+#home .back_to_start a {text-align: left;}
+#pages a#pagesLink, #parse a#parseLink, #home a#homeLink {display: none}
+#back-top {bottom: 80px; right: 24px; position: fixed; z-index: 15000;}
+#back-top a {background-color: rgba(158,164,181,0.8); background-image: url(img/arrowup.png); background-position: center center; background-repeat: no-repeat; border-radius: 3px; display: block; height: 40px; text-decoration: none; transition: 1s; width: 40px;}
+#back-top a:hover {background-color: rgba(61,74,107,0.7);}
+.indexesjs_link {text-decoration: underline; cursor: pointer;}
